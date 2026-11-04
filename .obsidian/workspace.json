@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пустая карта/Ресурсы.md",
+                "file": "Пустая карта/Боты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ресурсы"
+              "title": "Боты"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пустая карта/README.md",
+                "file": "Пустая карта/Технологии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Технологии"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,14 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90b82308eb01bfbe",
+  "active": "63c5899d79989d17",
   "lastOpenFiles": [
-    "Пустая карта/Технологии.md",
     "Пустая карта/Ресурсы.md",
-    "Пустая карта/Карточка страны.md",
-    "Пустая карта/Геймплей и старт.md",
-    "Пустая карта/Боты.md",
+    "Пустая карта/Технологии.md",
     "Пустая карта/README.md",
+    "Пустая карта/Карточка страны.md",
+    "Пустая карта/Боты.md",
+    "Пустая карта/Геймплей и старт.md",
     "Пустая карта/Лор.md",
     "Добро пожаловать.md",
     "Пустая карта"
